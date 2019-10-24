@@ -14,7 +14,7 @@ class Layout extends React.Component {
 
     const myTitle = (
       <Fragment>
-        mattia<span className='redTitle'>V.</span>
+        <span className='blackTitle'>mattia</span><span className='redTitle'>V.</span>
       </Fragment>
     )
 
@@ -55,7 +55,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            {title}
+            {myTitle}
           </Link>
         </h3>
       )
