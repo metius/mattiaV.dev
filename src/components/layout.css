@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Kaushan Script';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Kaushan Script'), url('KaushanScript-Regular.woff') format('woff');
+  }
+    
+  h1 {
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 200;
+    color: #000000;
+  }
+
+  .redTitle {
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 200;
+    color: #d00000;
+  }
