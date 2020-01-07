@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `mattiaV.`,
     author: `Mattia V.`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog for describe my dev experience.`,
     siteUrl: `https://mattiav.dev`,
     social: {
       twitter: `mattiaV_dev`,
@@ -74,6 +74,20 @@ module.exports = {
       options: {
         pathToConfigModule: `src/utils/typography`,
       },
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+        {
+          resolve: "gatsby-remark-external-links",
+          options: {
+            target: "_blank",
+            rel: "nofollow"
+          }
+        }
+        ]
+      }
     },
   ],
 }
