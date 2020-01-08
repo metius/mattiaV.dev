@@ -59,24 +59,10 @@ I also personally like to leave the navigation bar on the right, I feel like it 
 
 ## Conclusion
 
-This is a simple post to save and share my curernt set up. This will be a *dynamic* post since I plan to update it based on new feature, extension or even new Linux Distro (Elementary, for example).
+This is a simple post to save and share my current set up. This will be a *dynamic* post since I plan to update it based on new features, extension or even new Linux Distro I will try along the way.
 
 It is definetely not perfect but it makes me work in a more productive way.
 
-Something else I will aslo test are the KDE Activities, even if I'm not sure they will fit my needs.
+Something else I will aslo test in the near future are the KDE Activities, even if I'm not sure they will fit my needs.
 
 Hope you liked my first post! :)
-
-
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
-
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
